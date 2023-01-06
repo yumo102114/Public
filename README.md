@@ -1,6 +1,6 @@
 # Public
 ## Caesar.py
 シーザー暗号をpythonで実装してみました。  
-eg. PLAIN > It is sunny today. But, it will rainy tomorrow.&emsp; KEY > 3  
-&emsp;&rarr;&emsp;CIPER > Lw lv vxqqb wrgdb. Exw, lw zloo udlqb wrpruurz.
+eg. PLAINTEXT > It is sunny today. But, it will rainy tomorrow.&emsp; KEY > 3  
+&emsp;&rarr;&emsp;CIPERTEXT > Lw lv vxqqb wrgdb. Exw, lw zloo udlqb wrpruurz.
 ***
