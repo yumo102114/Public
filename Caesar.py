@@ -29,4 +29,5 @@ for i in range(0,len(char)-1):
 CIPER = ''.join(char)
 
 # 表示
+print("\nDisplay cipertext > ")
 print(CIPER)
