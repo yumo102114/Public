@@ -10,7 +10,7 @@ KEY = int(input("Enter key > "))
 CIPER = []
 
 # 暗号化
-for i in range(0,len(char)-1):
+for i in range(len(char)):
     if char[i] != ' ' or char[i] != ',' or char[i] != '.' or char[i] != "'":
         if 96 < ord(char[i]) < 123:
             ASCII = ord(char[i])
